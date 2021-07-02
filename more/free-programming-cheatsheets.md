@@ -1,8 +1,9 @@
 ### Index
 
+* [Artificial Intelligence](#artificial-intelligence)
 * [Bash](#bash)
 * [C](#C)
-* [C++](#c-1)
+* [C++](#cpp)
 * [Clojure](#clojure)
 * [Data Science](#data-science)
 * [Git](#git)
@@ -21,6 +22,11 @@
 * [SQL](#sql)
 
 
+### Artificial Intelligence
+
+* [What is Artificial Intelligence?](https://intelligencereborn.com/ArtificialIntelligence.html) IntelligenceReborn (HTML)
+
+
 ### Bash
 
 * [Bash Scripting cheatsheet](https://devhints.io/bash) Devhints (HTML)
@@ -29,10 +35,11 @@
 ### C
 
 * [C Reference Card (ANSI)](https://users.ece.utexas.edu/~adnan/c-refcard.pdf) (PDF)
+* [Systems Programming Cheat Sheet](https://github.com/jstrieb/systems-programming-cheat-sheet)
 * [The C Cheat Sheet: An Introduction to Programming in C](https://sites.ualberta.ca/~ygu/courses/geoph624/codes/C.CheatSheet.pdf) - Andrew Sterian (PDF)
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [C++ Quick Reference](https://www.hoomanb.com/cs/quickref/CppQuickRef.pdf) (PDF)
 
